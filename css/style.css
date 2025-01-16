@@ -4,6 +4,7 @@
   display: flex;
   max-width: 1040px;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 body {
@@ -50,6 +51,7 @@ nav {
 nav ul {
   display: flex;
   gap: 16px;
+  flex-wrap: wrap;
 }
 
 nav ul li {
